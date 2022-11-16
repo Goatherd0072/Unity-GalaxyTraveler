@@ -8,7 +8,7 @@ public class MenuRotate : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        mRotationSpeed = 0.1f;
+        mRotationSpeed = 0.01f;
     }
 
     // Update is called once per frame
